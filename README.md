@@ -2,7 +2,6 @@
 
 [![Community Group](https://img.shields.io/badge/Community-Machine%20Learning%20Artifitial%20Inteligence%20Models%20Framework%20Security%20Community%20Group-red?style=for-the-badge&logo=github)](https://github.com/Artificial-Intelligence-Computer-Vision/BAI-CVRI-Machine-Learning-Artifitial-Inteligence-Models-Framework-Security-Community-Group)
 
-# Purpose of Machine Learning and Artificial Intelligence Models Security
 The purpose of security in machine learning (ML) and artificial intelligence (AI) models is to ensure the integrity, confidentiality, and availability of the models and the data they process. This includes protecting models from various threats such as data breaches, adversarial attacks, and model theft. Here are key aspects and objectives:
 
 **Integrity Protection**:
