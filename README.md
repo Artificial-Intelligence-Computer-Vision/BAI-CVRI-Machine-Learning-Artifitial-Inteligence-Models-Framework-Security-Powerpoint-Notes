@@ -1,4 +1,4 @@
-# {BAI-CVRI} Machine Learning Artifitial Inteligence Models Framework Security Powerpoint Notes
+# {BAI-CVRI} Machine Learning Artificial Intelligence Models Framework Security Powerpoint Notes
 
 [![Community Group](https://img.shields.io/badge/Community-Machine%20Learning%20Artifitial%20Inteligence%20Models%20Framework%20Security%20Community%20Group-red?style=for-the-badge&logo=github)](https://github.com/Artificial-Intelligence-Computer-Vision/BAI-CVRI-Machine-Learning-Artifitial-Inteligence-Models-Framework-Security-Community-Group)
 
